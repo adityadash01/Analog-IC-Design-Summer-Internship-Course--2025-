@@ -8,7 +8,7 @@
 ## Introduction
 
 Hi there! 👋
-Welcome to the repository for the **Summer Internship Program on Analog Integrated Circuit (IC) Design**. I’m a B.Tech student who just completed this program, and I’m excited to share my experience, the knowledge I gained, and all the resources you’ll need if you’re interested in analog IC design.
+Welcome to the repository for the **Summer Internship Program on Analog Integrated Circuit (IC) Design**. I’m an Electrical and Electronics Engineering student who just completed this program, and I’m excited to share my experience, the knowledge I gained, and all the resources you’ll need if you’re interested in Analog IC Design.
 
 ---
 
@@ -24,7 +24,7 @@ I joined this internship because I wanted to bridge the gap between theory and r
 
 - **CMOS Device Physics:** From pn junctions to MOSFET operation, I now understand how transistors work at the fundamental level.
 - **Analog Building Blocks:** Designed current mirrors, differential pairs, and cascode amplifiers from scratch.
-- **Circuit Simulation \& Layout:** Used open-source tools like **ngspice**, **xschem**, and **magic** for schematic capture, simulation, and layout.
+- **Circuit Simulation \& Layout:** Used open-source tools like **ngspice**, **xschem**, and **siliwiz** and **magic** for schematic capture, simulation, and layout.
 - **System Design:** Got to see how analog blocks fit into a real application (USB-MIDI microphone front-end).
 
 
@@ -32,7 +32,7 @@ I joined this internship because I wanted to bridge the gap between theory and r
 
 - **ngspice:** For simulating analog circuits.
 - **xschem:** For drawing schematics.
-- **magic:** For IC layout.
+- **siliwiz and magic:** For IC layout.
 - **KICAD:** For PCB design.
 - **Python (numpy, scipy, matplotlib):** For data analysis and visualization.
 
@@ -41,8 +41,8 @@ I joined this internship because I wanted to bridge the gap between theory and r
 ## Program Structure
 
 - **Duration:** 3 weeks (100 hours)
-- **Format:** Lectures (theory), hands-on labs, and a major project
-- **Batch Size:** 25 students (great for interaction and personalized guidance)
+- **Format:** Lectures (theory) and project for hands-on experience
+- **Batch Size:** Around 50 students (great for interaction and personalized guidance)
 
 
 ### Week-by-Week Breakdown
@@ -62,7 +62,7 @@ I worked on designing and simulating the **analog front-end for a USB-MIDI micro
 
 - Creating the schematic in xschem
 - Running simulations in ngspice
-- Laying out the design in magic
+- Laying out the design in siliwiz and magic
 - Preparing for fabrication using the TinyTapeout platform
 
 You’ll find my project files in the `/projects` folder, including simulation data and my final report.
@@ -98,7 +98,7 @@ You’ll find my project files in the `/projects` folder, including simulation d
 
 ## Acknowledgements
 
-Big thanks to **Dr. Saroj Rout**, **Prasant Swain**, and **Mrinal Das** for their mentorship and guidance.
+Big thanks to **Dr. Saroj Rout**, **Mr. Prasant Swain**, and **Mr. Mrinal Das** for their mentorship and guidance.
 
 ---
 

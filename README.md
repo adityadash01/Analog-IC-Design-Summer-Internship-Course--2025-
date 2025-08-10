@@ -7,8 +7,7 @@
 
 ## Introduction
 
-Hi there! 👋
-Welcome to the repository for the **Summer Internship Program on Analog Integrated Circuit (IC) Design**. I’m an Electrical and Electronics Engineering student who just completed this program, and I’m excited to share my experience, the knowledge I gained, and some resources you’ll need if you’re interested in Analog IC Design.
+Welcome to my repository for the **Summer Internship Program on Analog Integrated Circuit (IC) Design**. I’m an Electrical and Electronics Engineering student who just completed this program, and I’m excited to share my experience, the knowledge I gained, and some resources you’ll need if you’re interested in Analog IC Design.
 
 ---
 

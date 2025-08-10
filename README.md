@@ -104,7 +104,7 @@ I worked on designing and simulating the **analog front-end for a USB-MIDI micro
 
 **Microphone AFE Analysis**
 
-![Mic Analysis](figures/Fig-d2-1-mic-analysis.png)
+<img width="2159" height="2289" alt="Fig-d2-1-mic-analysis" src="https://github.com/user-attachments/assets/8269c37d-1345-43a9-9134-58b7110029ef" />
 
 
 

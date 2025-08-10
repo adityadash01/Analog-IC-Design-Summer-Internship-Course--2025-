@@ -48,7 +48,7 @@ I joined this internship because I wanted to bridge the gap between theory and r
 | :-- | :-- |
 | 1 | Linear circuits, passive devices, intro to MOSFETs, basic simulations |
 | 2 | MOS device physics, analog building blocks, advanced simulation |
-| 3 | Full analog IP design (Skywater 130nm), layout, PCB design, testing |
+| 3 | Full analog IC design (Skywater 130nm), layout, PCB design, testing |
 
 
 ---

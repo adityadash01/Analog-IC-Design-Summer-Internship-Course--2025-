@@ -8,7 +8,7 @@
 ## Introduction
 
 Hi there! 👋
-Welcome to the repository for the **Summer Internship Program on Analog Integrated Circuit (IC) Design**. I’m an Electrical and Electronics Engineering student who just completed this program, and I’m excited to share my experience, the knowledge I gained, and all the resources you’ll need if you’re interested in Analog IC Design.
+Welcome to the repository for the **Summer Internship Program on Analog Integrated Circuit (IC) Design**. I’m an Electrical and Electronics Engineering student who just completed this program, and I’m excited to share my experience, the knowledge I gained, and some resources you’ll need if you’re interested in Analog IC Design.
 
 ---
 
@@ -33,8 +33,6 @@ I joined this internship because I wanted to bridge the gap between theory and r
 - **ngspice:** For simulating analog circuits.
 - **xschem:** For drawing schematics.
 - **siliwiz and magic:** For IC layout.
-- **KICAD:** For PCB design.
-- **Python (numpy, scipy, matplotlib):** For data analysis and visualization.
 
 ---
 
@@ -65,6 +63,9 @@ I worked on designing and simulating the **analog front-end for a USB-MIDI micro
 - Laying out the design in siliwiz and magic
 - Preparing for fabrication using the TinyTapeout platform
 
+- ![IMG20250618140510](https://github.com/user-attachments/assets/6cdbeae7-586e-44f2-b093-d66088115fe4)
+
+
 You’ll find my project files in the `/projects` folder, including simulation data and my final report.
 
 ---
@@ -85,16 +86,11 @@ You’ll find my project files in the `/projects` folder, including simulation d
 - **Industry Insight:** Sessions with experts from Synopsys and academia.
 - **Collaboration:** Worked closely with peers and mentors.
 
----
+- ![WhatsApp Image 2025-08-10 at 12 44 15](https://github.com/user-attachments/assets/dbc2b5ad-fa94-4582-93d8-7e14471354a8)
 
-## Tips for Future Students
-
-- Don’t be afraid to ask questions—everyone is here to help.
-- Spend extra time on simulations; it really helps solidify concepts.
-- Document your progress (this repo helped me a lot!).
-- Explore beyond the syllabus—try modifying the example circuits!
 
 ---
+
 
 ## Acknowledgements
 

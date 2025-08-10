@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "app": "siliwiz",
+  "timestamp": 1749547626,
+  "rects": [
+    { "x": 57.34, "y": 56, "height": 277.78, "width": 277.78, "layer": "p substrate" },
+    { "x": 84.34, "y": 179, "height": 42, "width": 43, "layer": "p substrate" },
+    { "x": 111.34, "y": 96, "height": 177.78, "width": 177.78, "layer": "n well" },
+    { "x": 286.34, "y": 288.8, "height": 41, "width": 39, "layer": "p tap" },
+    { "x": 130.34, "y": 203.8, "height": 37, "width": 57, "layer": "metal1 via" },
+    { "x": 218.34, "y": 204.8, "height": 36, "width": 52, "layer": "metal1 via" },
+    { "x": 139.34, "y": 65.8, "height": 155, "width": 23, "layer": "metal1" },
+    { "x": 285.34, "y": 288.8, "height": 35, "width": 34, "layer": "metal1", "label": "Vss" },
+    { "x": 223.34, "y": 69.8, "height": 152, "width": 23, "layer": "metal1" }
+  ],
+  "graph": {
+    "dcSweep": false,
+    "minInVoltage": 0,
+    "maxInVoltage": 5,
+    "pulseDelay": 0,
+    "riseTime": 50,
+    "signalNames": "in out",
+    "tranTime": 60000000
+  }
+}

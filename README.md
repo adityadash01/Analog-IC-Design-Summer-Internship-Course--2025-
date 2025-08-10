@@ -63,7 +63,8 @@ I worked on designing and simulating the **analog front-end for a USB-MIDI micro
 - Laying out the design in siliwiz and magic
 - Preparing for fabrication using the TinyTapeout platform
 
-- ![IMG20250618140510](https://github.com/user-attachments/assets/6cdbeae7-586e-44f2-b093-d66088115fe4)
+- ![WhatsApp Image 2025-08-10 at 15 44 02](https://github.com/user-attachments/assets/f133c6f3-e80f-44c7-b70e-69d17a70f7a1)
+
 
 
 You’ll find my project files in the `/projects` folder, including simulation data and my final report.
